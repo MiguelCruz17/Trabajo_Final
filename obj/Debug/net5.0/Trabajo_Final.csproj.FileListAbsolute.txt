@@ -1,0 +1,16 @@
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.exe
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.deps.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\ref\Trabajo_Final.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\bin\Debug\net5.0\Trabajo_Final.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\ref\Trabajo_Final.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Calculadora de Préstamos\Trabajo_Final\obj\Debug\net5.0\Trabajo_Final.genruntimeconfig.cache
